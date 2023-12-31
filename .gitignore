@@ -1,0 +1,13 @@
+# Scratch files
+x
+x.*
+*.x
+*.bak
+*.tmp
+*.log
+tmp.*
+*.tmp[0-9]
+~*
+.DS_Store
+lbm.sh
+*.class
